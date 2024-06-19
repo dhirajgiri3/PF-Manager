@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhiraj giri
 ===================================================================================================================================
 
-Web developer | Graphic designer
+Founder & CEO of Cyper Studio | Fulll Stack Developer
 --------------------------------
-
-I started Web development 5 months ago and my progress in this field is impressive. I learned HTML, CSS, BOOTSTRAP, and JAVASCRIPT and have been working on REACT JS recently. I am also a graphic designer and have done 2 internships previously in Graphic designing. Looking for Great Career in Web Development.
 
 * 🌍  I'm based in Greater noida, Uttar Pradesh
 * 🖥️  See my portfolio at [My Portfolio](http://four-store.netlify.app)
