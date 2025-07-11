@@ -14,17 +14,29 @@
 
 ## 🚀 About Me
 
-```javascript
-const dhiraj = {
-    location: "Greater Noida, Uttar Pradesh 🇮🇳",
-    role: "Founder & CEO of Cyper Studio",
-    currentFocus: "Full Stack Development",
-    learning: ["Advanced JavaScript", "React Ecosystem", "Node.js"],
-    interests: ["Web Development", "UI/UX Design", "Open Source"],
-    collaboration: "Always open to exciting projects! 🤝",
-    motto: "Code with passion, design with purpose ✨"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=400&lines=🏢+Founder+%26+CEO+of+Cyper+Studio;🌍+Based+in+Greater+Noida%2C+UP;🎯+Full+Stack+Developer;💡+UI%2FUX+Designer" alt="About Me" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🎯 What I'm Up To
+
+- 🌱 **Currently Learning:** Advanced JavaScript, React Ecosystem, Node.js
+- 💼 **Working On:** [TravelX - Travel Booking Platform](https://dhirajgiri3.github.io/Travelx/)
+- 🤝 **Open to:** Collaborating on exciting web development projects
+- 🎨 **Interests:** Web Development, UI/UX Design, Open Source Contributions
+- 💬 **Ask me about:** React, JavaScript, Frontend Development, UI/UX Design
+
+### 💭 My Philosophy
+> *"Code with passion, design with purpose ✨"*
 
 <div align="center">
   
