@@ -15,14 +15,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="300" />
 </div>
 
 ### 🎯 What I'm Up To
