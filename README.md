@@ -1,59 +1,158 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhiraj giri
-===================================================================================================================================
+# 👋 Hello World! I'm Dhiraj Giri
 
-Founder & CEO of Cyper Studio | Fulll Stack Developer
---------------------------------
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Founder+%26+CEO+of+Cyper+Studio;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-* 🌍  I'm based in Greater noida, Uttar Pradesh
-* 🖥️  See my portfolio at [My Portfolio](http://four-store.netlify.app)
-* ✉️  You can contact me at [dhirajg934@gmail.com](mailto:dhirajg934@gmail.com)
-* 🚀  I'm currently working on [https://dhirajgiri3.github.io/Travelx/](http://https://dhirajgiri3.github.io/Travelx/)
-* 🧠  I'm learning JAVASCRIPT
-* 🤝  I'm open to collaborating on Web Development
-* ⚡  I am really intrested in COLLABORATING and Working on Project, You can contact me for it.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhirajgiri3&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dhirajgiri3?logo=github&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00d9ff?style=for-the-badge&labelColor=1a1a1a" alt="Focus" />
+</div>
 
-<a href="https://www.github.com/dhirajgiri3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dhirajgiri3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+## 🚀 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+```javascript
+const dhiraj = {
+    location: "Greater Noida, Uttar Pradesh 🇮🇳",
+    role: "Founder & CEO of Cyper Studio",
+    currentFocus: "Full Stack Development",
+    learning: ["Advanced JavaScript", "React Ecosystem", "Node.js"],
+    interests: ["Web Development", "UI/UX Design", "Open Source"],
+    collaboration: "Always open to exciting projects! 🤝",
+    motto: "Code with passion, design with purpose ✨"
+};
+```
 
+<div align="center">
+  
+### 🌐 Connect With Me
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](http://four-store.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirajg934@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirajgiri/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhirajgiri3)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/freelancerr_7)
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.behance.com/dhirajgoswami1?isa0=1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/dhirajgiri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/dhirajgiri3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gra.phicdesignerr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dhirajgiri/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/https://medium.com/@dhirajg934" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19514832/dhiraj-giri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/freelancerr_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## 🛠️ Tech Stack
 
-<b>My GitHub Stats</b>
+<div align="center">
 
-<a href="http://www.github.com/dhirajgiri3"><img src="https://github-readme-stats.vercel.app/api?username=dhirajgiri3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dhirajgiri3's GitHub stats" /></a>
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="http://www.github.com/dhirajgiri3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajgiri3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-<a href="http://www.github.com/dhirajgiri3"><img src="https://activity-graph.herokuapp.com/graph?username=dhirajgiri3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🎯 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<a href="https://github.com/dhirajgiri3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajgiri3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/dhirajgiri3/Travelx" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=Travelx&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dhirajgiri3/E-commerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=E-commerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 🎯 Current Focus
 
-### Support Me
+<div align="center">
+  
+### 🚀 Featured Project
+  
+[![TravelX](https://img.shields.io/badge/🌍_TravelX-Travel_Booking_Platform-00d9ff?style=for-the-badge&labelColor=1a1a1a)](https://dhirajgiri3.github.io/Travelx/)
+  
+*A modern travel booking platform with interactive UI and seamless user experience*
 
-<a href="https://www.buymeacoffee.com/dhirajgiri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhirajgiri3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajgiri3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhirajgiri3&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajgiri3&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 Featured Repositories
+
+<div align="center">
+  
+[![TravelX](https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=Travelx&theme=tokyonight&hide_border=true)](https://github.com/dhirajgiri3/Travelx)
+[![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=E-commerce&theme=tokyonight&hide_border=true)](https://github.com/dhirajgiri3/E-commerce)
+
+</div>
+
+---
+
+## 🌟 Let's Connect & Collaborate!
+
+<div align="center">
+  
+### 📱 Social Media
+  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.com/dhirajgoswami1)
+[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/dhirajgiri)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/gra.phicdesignerr/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhirajg934)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/19514832/dhiraj-giri)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ☕ Support My Work
+  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dhirajgiri)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 Fun Fact
+  
+*"Code is like humor. When you have to explain it, it's bad."* 😄
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" />
+</div>
