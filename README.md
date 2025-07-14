@@ -20,11 +20,11 @@
 
 ### 🎯 What I'm Up To
 
-- 🌱 **Currently Learning:** Advanced JavaScript, React Ecosystem, Node.js
-- 💼 **Working On:** [TravelX - Travel Booking Platform](https://dhirajgiri3.github.io/Travelx/)
-- 🤝 **Open to:** Collaborating on exciting web development projects
-- 🎨 **Interests:** Web Development, UI/UX Design, Open Source Contributions
-- 💬 **Ask me about:** React, JavaScript, Frontend Development, UI/UX Design
+- 🌱 **Currently Learning:** Golang, Advance System Design, PostgreSQL
+- 💼 **Working On:** [Whizboard - Smart Digital Whitebaord with AI Assistant](https://github.com/dhirajgiri3/Cyperboard)
+- 🤝 **Open to:** Collaborating on exciting and complex products
+- 🎨 **Interests:** Building Softwares that matters
+- 💬 **Ask me about:** Anything, I will answer if i can!
 
 ### 💭 My Philosophy
 > *"Code with passion, design with purpose ✨"*
@@ -48,18 +48,31 @@
 <div align="center">
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### ⚙️ Backend & System Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-FF6200?style=for-the-badge&logo=system-design&logoColor=white)
 
 ### 🎯 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -76,7 +89,7 @@
   
 ### 🚀 Featured Project
   
-[![TravelX](https://img.shields.io/badge/🌍_TravelX-Travel_Booking_Platform-00d9ff?style=for-the-badge&labelColor=1a1a1a)](https://dhirajgiri3.github.io/Travelx/)
+[![TravelX](https://img.shields.io/badge/🌍_Whizboard-00d9ff?style=for-the-badge&labelColor=1a1a1a)](https://dhirajgiri3.github.io/cyperboard/)
   
 *A modern travel booking platform with interactive UI and seamless user experience*
 
@@ -111,8 +124,8 @@
 
 <div align="center">
   
-[![TravelX](https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=Travelx&theme=tokyonight&hide_border=true)](https://github.com/dhirajgiri3/Travelx)
-[![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=E-commerce&theme=tokyonight&hide_border=true)](https://github.com/dhirajgiri3/E-commerce)
+[![Whizboard](https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=Cyperboard&theme=tokyonight&hide_border=true)](https://github.com/dhirajgiri3/Cyperboard)
+[![Productbazar](https://github-readme-stats.vercel.app/api/pin/?username=dhirajgiri3&repo=Productbazar&theme=tokyonight&hide_border=true)](https://github.com/dhirajgiri3/Productbazar)
 
 </div>
 
