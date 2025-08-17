@@ -20,7 +20,7 @@
 
 ### 🎯 What I'm Up To
 
-- 🌱 **Currently Learning:** Golang, Advance System Design, PostgreSQL
+- 🌱 **Currently Learning:** Golang, Advance System Design, PostgreSQL, AWS
 - 💼 **Working On:** [Whizboard - Smart Digital Whitebaord with AI Assistant](https://github.com/dhirajgiri3/Cyperboard)
 - 🤝 **Open to:** Collaborating on exciting and complex products
 - 🎨 **Interests:** Building Softwares that matters
